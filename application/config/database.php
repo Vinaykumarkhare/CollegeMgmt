@@ -75,9 +75,9 @@ $query_builder = TRUE;
 
 $db['default'] = array(
 	'dsn'	=> '',
-	'hostname' => '',
-	'username' => '',
-	'password' => '',
+	'hostname' => 'vinaydb.mysql.database.azure.com',
+	'username' => 'vinaydb',
+	'password' => 'khare@123',
 	'database' => '',
 	'dbdriver' => 'mysqli',
 	'dbprefix' => '',
